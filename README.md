@@ -6,6 +6,7 @@
   <a href="#funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#tecnologias-utilizadas">Tecnologias Utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#como-usar">Como Usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="#executar-projeto">Executar Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#licença">Licença</a>
 
 ---
@@ -30,6 +31,10 @@
 - **HTML5**: Estrutura da aplicação.
 - **CSS3**: Estilização da interface.
 - **JavaScript**: Lógica para geração de números aleatórios.
+
+## Executar Projeto
+
+<a href="https://matheeusaraujo.github.io/sorteador-numeros/">Ver projeto online </a>
 
 
 ## Licença
