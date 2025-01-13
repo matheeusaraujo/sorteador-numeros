@@ -19,7 +19,6 @@
 
 - 🎲 Sorteio de números dentro de um intervalo personalizado.
 - 🖤 Interface limpa e minimalista.
-- 📱 Compatível com dispositivos móveis e desktops.
 
 ## Como Usar
 
