@@ -1,6 +1,16 @@
-# DevSorteio 🎲
+<h1 align=center>DevSorteio 🎲</h1>
 
-DevSorteio é uma aplicação simples para sortear números de forma fácil e rápida. 
+
+
+<p align="center">
+  <a href="#-funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias-utilizadas">Tecnologias Utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-como-usar">Como Usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-licença">Licença</a>
+
+---
+
+<p align="center"><b>DevSorteio</b> é uma aplicação simples para sortear números de forma fácil e rápida. </p>
 
 ![DevSorteio Screenshot](./readimage.png)
 
@@ -24,7 +34,7 @@ DevSorteio é uma aplicação simples para sortear números de forma fácil e r�
 
 ## Licença
 
-Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está licenciado sob a licença MIT.
 
 ---
 
